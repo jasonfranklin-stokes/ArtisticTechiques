@@ -1,0 +1,162 @@
+# ArtisticTechiques for Human reference, LLM's know these terms as Artistic Techniques
+- Chiaroscuro
+- Foreshortening
+- Perspective
+- Tenebrism
+- Sfumato
+- Grattage
+- Trompe-l'œil
+- Wet-on-wet
+- Wet-on-dry
+- Alla prima
+- Glazing
+- Scumbling
+- Impasto
+- Gesso
+- Underpainting
+- Encaustic
+- Fresco secco
+- Buon fresco
+- Cangiante
+- Feathering
+- Cross-contour
+- Negative space
+- Gouging
+- Marbling
+- Palimpsest
+- Burnishing
+- Non-representational
+- Pointillism
+- Cubism
+- Frottage
+- Drypoint
+- Aquatint
+- Masking
+- Bleeding
+- Wash
+- Suminagashi
+- Cire perdue
+- Patination
+- Repoussé
+- Intarsia
+- Cameo
+- Gem engraving
+- Mezzotint
+- Spit-bite
+- Soft-ground etching
+- Hard-ground etching
+- Aquatint
+- Sugar-lift
+- Carborundum
+- Photo-etching
+- Transfer drawing
+- Drypoint
+- Stenciling
+- Monoprinting
+- Stamping
+- Collagraphy
+- Wood engraving
+- Reduction print
+- Juxtaposition
+- Layering
+- Collaging
+- Assemblage
+- Appliqué
+- Batik
+- Embossing
+- Debossing
+- Asemic writing
+- Frisket
+- Highlighting
+- Shading
+- Tonal value
+- Hatching
+- Cross-hatching
+- Stippling
+- Backlit
+- Silhouette
+- Palette knife painting
+- Push-pull effect
+- Atmospheric perspective
+- Overlapping
+- Position
+- Size
+- Value contrast
+- Detail
+- Isolation
+- Convergence
+- Vanishing point
+- Horizon line
+- One-point perspective
+- Two-point perspective
+- Three-point perspective
+- Aerial perspective
+- Linear perspective
+- Contour drawing
+- Gesture drawing
+- Blind contour drawing
+- Continuous line drawing
+- Scribble drawing
+- Mass drawing
+- Grid drawing
+- Negative drawing
+- Symmetry
+- Asymmetry
+- Balance
+- Harmony
+- Variety
+- Unity
+- Proportion
+- Gradation
+- Repetition
+- Rhythm
+- Movement
+- Contrast
+- Emphasis
+- Pattern
+- Texture
+- Space
+- Form
+- Composition
+- Focal point
+- Thumbnail sketching
+- Blocking in
+- Lost and found edges
+- Hard and soft edges
+- Broken color
+- Complementary color scheme
+- Analogous color scheme
+- Monochromatic color scheme
+- Triadic color scheme
+- Split-complementary color scheme
+- Double-complementary color scheme
+- Square color scheme
+- Tints
+- Tones
+- Shades
+- Warm colors
+- Cool colors
+- High-key
+- Low-key
+- Fractal design
+- Layer masking
+- Rotoscoping
+- Pixel sorting
+- Dithering
+- Anti-aliasing
+- Morphing
+- Keyframing
+- Motion blur
+- Depth of field
+- Ambient occlusion
+- Ray tracing
+- HDR rendering
+- Subsurface scattering
+- Bump mapping
+- Parallax scrolling
+- Rigging
+- Skin weighting
+- Inverse kinematics
+- Boolean operations
+- Bezier curves
+- NURBS
